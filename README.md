@@ -31,3 +31,10 @@ Available from [GitHub](MBM_data.zip),
 Available from [GitHub](cells.zip), [VGG](http://www.robots.ox.ac.uk/~vgg/research/counting/cells.zip) and [Academic Torrents](http://academictorrents.com/details/b32305598175bb8e03c5f350e962d772a910641c)
 
 ![](cells-vgg-overview.png)
+
+## Adipocyte Cells dataset
+
+Human subcutaneous adipose tissue dataset obtained from the Genotype Tissue Expression Consortium (GTEx). 200 Regions Of Interest (ROI) representing adipocyte cells were sampled from high resolution histology slides by using a sliding window of 1700 x 1700. Images were then down sampled to 150 x 150.
+
+![](adipocyte_data_overview.png)
+
