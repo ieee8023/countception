@@ -5,6 +5,11 @@ Counting objects in digital images is a process that should be replaced by machi
 
 
 Citation request:
+
+Count-ception: Counting by Fully Convolutional Redundant Counting<br>
+JP Cohen, G Boucher, CA Glastonbury, HZ Lo, Y Bengio<br>
+International Conference on Computer Vision (ICCV) Workshop on Bioimage Computing
+
 ```
 @inproceedings{Cohen2017,
 title = {Count-ception: Counting by Fully Convolutional Redundant Counting},
@@ -24,6 +29,9 @@ And another video of learning multiple classes:
 
 [![](http://img.youtube.com/vi/Cr5R-rrRSdI/0.jpg)](https://www.youtube.com/watch?v=Cr5R-rrRSdI)
 
+A video of training on sealions:
+
+[![](http://img.youtube.com/vi/t_ZNGduBC_U/0.jpg)](https://www.youtube.com/watch?v=t_ZNGduBC_U)
 
 
 ## MBM dataset
