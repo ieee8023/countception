@@ -20,6 +20,11 @@ Here is a video of the learning in progress:
 
 [![](http://img.youtube.com/vi/ej5bj0mlQq8/0.jpg)](https://www.youtube.com/watch?v=ej5bj0mlQq8)
 
+And another video of learning multiple classes: 
+
+[![](http://img.youtube.com/vi/Cr5R-rrRSdI/0.jpg)](https://www.youtube.com/watch?v=Cr5R-rrRSdI)
+
+
 
 ## MBM dataset
 
