@@ -1,3 +1,6 @@
+## Use this code instead: [https://github.com/roggirg/count-ception_mbm](https://github.com/roggirg/count-ception_mbm)
+
+
 ## Count-Ception: Counting by Fully Convolutional Redundant Counting ([arXiv](http://arxiv.org/abs/1703.08710))
 ### Joseph Paul Cohen, Genevieve Boucher, Craig A. Glastonbury, Henry Z. Lo, Yoshua Bengio
 
